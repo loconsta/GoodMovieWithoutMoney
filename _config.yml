@@ -3,5 +3,5 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 remote_theme: benbalter/retlab #pages-themes/cayman@v0.2.0
-title: [How to make a good movie without money ?]
-description: [Investigation of cheap good movies characteristics]
+# title: [How to make a good movie without money ?]
+# description: [Investigation of cheap good movies characteristics]
