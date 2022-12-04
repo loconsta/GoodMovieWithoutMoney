@@ -4,6 +4,7 @@
 # title:  [How to make a good movie without money ?]
 # description:  [Analysis of the characteristics of good cheap movies]
 
-theme: jekyll-theme-cayman
+markdown: kramdown
+theme: minima
 title: [Let's Make it Pope-litical !]
 description: [Investigation of the Pope’s political position]
