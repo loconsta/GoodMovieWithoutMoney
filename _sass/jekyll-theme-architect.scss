@@ -28,7 +28,7 @@ header {
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   /* background: #6322e6 url(../images/header-bg.jpg) 0 0 repeat-x; */
-  background: url(../images/movie_mashup_small.jpg) 0 0 repeat-x; /*   */
+  background: url(../images/movie_mashup_small.jpg) 0 0 repeat-x,  url(../images/title-bg.jpg) no-repeat;
   border-bottom: solid 1px #275da1;
 }
 
@@ -41,9 +41,9 @@ header h1 {
   line-height: 1;
   color: #fff;
   letter-spacing: -1px;
-  background-image: url(../images/title-bg.jpg);
+  /* background-image: url(../images/title-bg.jpg);
   background-position: center center;
-  background-size: cover
+  background-size: cover */
 }
 
 header h2 {
