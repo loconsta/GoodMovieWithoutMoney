@@ -1,8 +1,8 @@
 markdown: kramdown
-# theme: [cayman] #pages-themes/cayman@v0.2.0 #jekyll-theme-cayman # minima
-plugins:
-  - jekyll-remote-theme
-remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-architect # minima
+# plugins:
+#  - jekyll-remote-theme
+# remote_theme: pages-themes/architect@v0.2.0
 
 title: [How to make a good movie without money]
 description: [Analysis of the characteristics of good cheap movies and how to make them]
