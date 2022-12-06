@@ -5,10 +5,16 @@
 ## Datasets
 &nbsp;&nbsp;&nbsp; A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG).
 
- 
+<p align="center">
+  <img src="images/test_monkey.jpg" />
+</p>
 
+<p align="center">
+  <img src="images/test_monkey.jpg" />
+</p>
 
+<p align="center">
+  <img src="images/test_monkey.jpg" />
+</p>
 
-![image](images/test_monkey.jpg)
-
-We are currently trying to create this website. If you see a nice monkey above, we are on track to get this thing done, so Cheers !!
+We are currently trying to create this website. If you see a bunch of nice monkeys above, we are on track to get this thing done, so Cheers !!
