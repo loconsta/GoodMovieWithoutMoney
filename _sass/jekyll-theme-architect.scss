@@ -155,7 +155,7 @@ header a.button:hover, a.button2:hover {
 }
 /**/
 
-aside a.button {
+aside a.button, a.button2 {
   display: block;
   width: 138px;
   padding-left: 64px;
@@ -443,7 +443,7 @@ footer a:hover {
   header h2 {
     font-size: 24px;
   }
-  header a.button, a.button2 {
+  header a.button, header a.button2 {
     position: relative;
     display: inline-block;
     width: auto;
@@ -460,7 +460,7 @@ footer a:hover {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
   }
-  header a.button, a.button2 small {
+  header a.button small, header a.button2 small {
     display: inline;
     font-size: 13px;
   }
@@ -476,7 +476,7 @@ footer a:hover {
     background-image: none;
     border-top: solid 1px #ddd;
   }
-  aside#sidebar a.button {
+  aside#sidebar a.button, a.button2 {
     display: none;
   }
   #main-content h1:before,
