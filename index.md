@@ -10,7 +10,7 @@ You have no idea where to start, there are so many different kinds of movies. Wh
 
 
 <p align="center">
-  {% include Business_Card_for_Programmers_Developers_with_Photo.pdf %}
+  {% include card.png %}
 </p>
 
 You immediately send an email to Mr. Costantin. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. The only thing you need to do is to wait.
