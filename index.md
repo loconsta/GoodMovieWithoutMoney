@@ -9,6 +9,11 @@ Now that all of your neurons are awake you understand the big problem you have: 
 You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:
 
 
+<p align="center">
+  {% Business_Card_for_Programmers_Developers_with_Photo.pdf %}
+</p>
+
+
 ## Abstract
 
 <p align="justify"> &nbsp;&nbsp;&nbsp; In the late 19th century the entertainment industry saw the advent of the first films. In the past hundred years movies have become an integral part of the lives of people around the globe. Nowadays, the movie industry has seen the advent of "superproductions" supported by insane amounts of money. However, budget might not be a mandatory prerequisite for movie quality, appreciation and revenue. We aim to study the relationship between movie rating, revenue, and budget throughout the last 60 years. In addition, we want to include movie genres in our analysis, and hope to reveal a time-dependent effect of trends in the movie industry. This would be signalled by an increased revenue/rating due only to genre differences, changing across decades. Lastly, we are interested in low budget movies with high revenue and ratings. We want to investigate possible common characteristics of these movies and how they evolve with time. </p>
