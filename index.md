@@ -1,4 +1,4 @@
-We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
+&nbsp;&nbsp;&nbsp; We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
 
 <p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA, and you want to prove your abilities, because as your mama says you are the best person in the world. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history of the world. </p>
 
@@ -14,8 +14,18 @@ We are going to bring you on an amazing journey inside the Hollywood world. Enjo
 
 Mr. Costantin and his amazing team work day and night to present the analysis as soon as possible.
 
-2 weeks later you receive an envelope with the results from the consulting company you hired. </p>
+After 2 weeks you receive an envelope with the results from the consulting company you hired.
 
+## Letter
+Dear future movie director,
+
+Me and my team worked full-time to provide you this report. We hope you are going to appreciate the analysis we made. 
+
+We stay at your disposal for any additional questions.
+
+Best regards,
+
+Loris Costantin
 
 
 ## Abstract
@@ -23,7 +33,7 @@ Mr. Costantin and his amazing team work day and night to present the analysis as
 <p align="justify"> &nbsp;&nbsp;&nbsp; In the late 19th century the entertainment industry saw the advent of the first films. In the past hundred years movies have become an integral part of the lives of people around the globe. Nowadays, the movie industry has seen the advent of "superproductions" supported by insane amounts of money. However, budget might not be a mandatory prerequisite for movie quality, appreciation and revenue. We aim to study the relationship between movie rating, revenue, and budget throughout the last 60 years. In addition, we want to include movie genres in our analysis, and hope to reveal a time-dependent effect of trends in the movie industry. This would be signalled by an increased revenue/rating due only to genre differences, changing across decades. Lastly, we are interested in low budget movies with high revenue and ratings. We want to investigate possible common characteristics of these movies and how they evolve with time. </p>
 
 ## Datasets
-&nbsp;&nbsp;&nbsp; A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG).
+&nbsp;&nbsp;&nbsp; A huge collection of movies for the past century and the beginning of this century. A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG). Figure ref x gives an idea of the number of movies in each year that are contained in the database used for the analysis.The number of films produced in the twenty-first century has skyrocketed, exceeding 10,000 per year.
 
 <p align="center">
   {% include year_movie_distr.html %}
