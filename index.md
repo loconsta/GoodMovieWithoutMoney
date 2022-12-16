@@ -45,7 +45,7 @@ Loris Costantin
 
 ### Exploratory analysis
 
-<p align="justify"> &nbsp;&nbsp;&nbsp; To determine the success of a movie, we want to consider the box office revenue, the budget and the rating. Therefore, we have to analyse the relationship between these features. First of all, we  look at  their distributions:</p>
+<p align="justify"> To determine the success of a movie, we want to consider the box office revenue, the budget and the rating. Therefore, we have to analyse the relationship between these features. First of all, we  look at  their distributions:</p>
 
 ADD IMAGE
   
