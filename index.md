@@ -1,4 +1,4 @@
-We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
+<p align="justify"> &nbsp;&nbsp;&nbsp; We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
 
 Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA, and you want to prove your abilities, because as your mama says you are the best person in the world. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history of the world.
 
@@ -14,7 +14,7 @@ The day has come, 2 minutes before the meeting time you click on the zoom link L
 
 Mr. Costantin and his amazing team work day and night to present the analysis as soon as possible.
 
-2 weeks later you receive an envelope with the results from the consulting company you hired.
+2 weeks later you receive an envelope with the results from the consulting company you hired. </p>
 
 
 
