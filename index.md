@@ -8,6 +8,10 @@ We are going to bring you on an amazing journey inside the Hollywood world. Enjo
 
 <p align="justify"> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:</p>
 
+<p align="center">
+  <img src="images/card.jpg" />
+</p>
+
 ADD CARD IMAGE
 
 <p align="justify"> You immediately send an email to Mr. Costantin. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. The only thing you need to do is to wait.</p>
