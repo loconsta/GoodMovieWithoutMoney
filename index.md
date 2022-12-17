@@ -54,10 +54,15 @@ ADD IMAGE
 <p align="justify"> For budget and revenue, we see that without the monetary correction there is a quite constant increase from 1959 to 2021. We remark that with inflation there is a better stabilisation, meaning that the variable is flatter. There is higher variability during the first years (1959-1973), which are probably due to the low number of movies during those years compared to more recent years.</p>
 
 ADD IMAGE
+ADD IMAGE
 
 <p align="justify"> In both cases (budget, revenue), we see that the median value is below the mean value. It is likely that there are huge outliers in both variables. In fact, we can confirm their presence from the distribution plots that we looked before.</p>
 
 <p align="justify"> The budgets and the revenues are corrected by considering the inflation. Thanks to this step we can compare revenues and budgets across years.</p>
+
+<p align="justify"> The third variable, the rating, seems to have on average constantly decreased from the beginning of the timeline (1959) to now. It appears that it is more difficult now to get a high rating than it was before. To understand this mechanism we have to make some reflections. First, nowadays movies are so common that the expectations of a person are higher than in the past. Second, it is way easier to rate a movie with internet connection and social media, this allows people to grade movies directly from home. There is a bias on who rates the movie, if you had a bad experience it is more probable that you share your opinion, even insulting the producer. Instead, it is less probable that you take the time to give a nice and good review. Furthermore, rating on the Internet was less common in the twentieth century. So probably the most popular and appreciated old movies are more often viewed nowadays, and the bad old movies may have been forgotten and not rated. These are just some possible explanations about the trend we remark across the time. </p>
+
+ADD IMAGE
 
 
 ### Genre analysis
