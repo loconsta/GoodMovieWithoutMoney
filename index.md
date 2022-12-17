@@ -89,6 +89,17 @@ ADD IMAGE
   
 ADD IMAGE
   
+<p align="justify"> Romance, mystery, horror, history, documentary, comedy, biography, and animation movies were significantly better rated before 2000. Action movies and science-fiction show a (non-significant)  increase in rating score. All the other categories display a non-significant decrease of the average rating score. This makes the analysis more complicated.  The trend is similar for all genres, the ratings are decreasing.</p>
+  
+<p align="justify"> No movies show significant increase in their revenue, whereas romance, history, drama, crime, comedy, and biography movies have a significant decrease.</p>
+
+<p align="justify"> Science fiction, adventure, and action movies show a significant increase in budget, whereas romance and drama movies undergo a significant decrease in their budget. </p>
+
+<p align="justify"> Thus, a significant increase in budget (such as for action, adventure, and science fiction movies) does not reflect a significant increase in the revenue.</p>
+
+<p align="justify"> In the second period, it seems harder to create movies as good as in the past. This could be due to the increasing concurrence. </p>
+
+  
 
 
 ### Clustering
