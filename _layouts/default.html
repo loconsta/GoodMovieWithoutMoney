@@ -44,6 +44,7 @@
             <button class="tablinks" onclick="openCity(event, 'TWO')">Rating, Revenue, Budget</button>
             <button class="tablinks" onclick="openCity(event, 'THREE')">Genres</button>
             <button class="tablinks" onclick="openCity(event, 'FOUR')">Clustering</button>
+            <button class="tablinks" onclick="openCity(event, 'FIVE')">Conclusion</button>
           </div>
           
           <!-- Open content in tabs -->
@@ -64,6 +65,11 @@
 
           <div id="FOUR" class="tabcontent">
             {% capture m %}{% include tabs/clustering.md %}{% endcapture %}
+            {{ m | markdownify }}
+          </div>
+
+          <div id="FIVE" class="tabcontent">
+            {% capture m %}{% include tabs/conclusion.md %}{% endcapture %}
             {{ m | markdownify }}
           </div>
           
