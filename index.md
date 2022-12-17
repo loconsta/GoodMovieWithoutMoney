@@ -1,24 +1,24 @@
-<i>We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.</i>
+We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
 
-<i p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA, and you want to prove your abilities, because as your mama says you are the best person in the world. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history of the world. </p></i>
+<p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA, and you want to prove your abilities, because as your mama says you are the best person in the world. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history of the world. </p>
 
-<i><p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good look.”</p></i>
+<p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good look.”</p></i>
 
-<i><p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy, and as you know life is not easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p></i>
+<i><p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy, and as you know life is not easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p>
 
-<i><p align="justify"> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:</p></i>
+<p align="justify"> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:</p>
 
 <p align="center">
   <img src="images/card.jpg" />
 </p>
 
-<i><p align="justify"> You immediately send an email to Mr. Costantin. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. The only thing you need to do is to wait.</p></i>
+<p align="justify"> You immediately send an email to Mr. Costantin. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. The only thing you need to do is to wait.</p>
 
-<i><p align="justify"> The day has come, 2 minutes before the meeting time you click on the zoom link Loris gave you. Of course, you haven’t updated zoom, now you have to wait. At the end you only have 1 minute of delay. During the discussion you and Mr. Costantin make a deal: he is going to collect and analyse all the movie data he finds in order to provide you with the kind of movie you should produce. In exchange you will pay him 5% of your revenue.</p></i>
+<p align="justify"> The day has come, 2 minutes before the meeting time you click on the zoom link Loris gave you. Of course, you haven’t updated zoom, now you have to wait. At the end you only have 1 minute of delay. During the discussion you and Mr. Costantin make a deal: he is going to collect and analyse all the movie data he finds in order to provide you with the kind of movie you should produce. In exchange you will pay him 5% of your revenue.</p>
 
-<i>Mr. Costantin and his amazing team work day and night to present the analysis as soon as possible.</i>
+Mr. Costantin and his amazing team work day and night to present the analysis as soon as possible.
 
-<i>After 2 weeks you receive an envelope with the results from the consulting company you hired.</i>
+After 2 weeks you receive an envelope with the results from the consulting company you hired.
 
 ## Letter
 Dear future movie director,
@@ -67,10 +67,19 @@ ADD IMAGE
 ADD IMAGE
 
 <p align="justify"> Let’s compute the correlation coefficients between the three variables. For all the test statistics we are going to use 5% as a significant threshold. In the plot below we report the correlation coefficient and the p-value for each pairwise comparison. For mitigating the huge domain spanned by the revenue and the budget we use the log scale. We remark that there is a significant correlation between the log of the budget and the log of the revenue, and the rating and the log of revenue. The correlation coefficient for the logarithmic budget-revenue relation is quite high. We can imagine that these two variables share a lot of information. The surprising fact is that there seems to be no correlation between the rating and the budget. Even with a low budget we can imagine producing a film with a high rating.</p>
-
+  
+<p align="justify"> You lift your head from the paper, your eyes are tired. You feel less stress than before, there is still a chance to get a high rating movie from a low budget. And you now know that the ratings are getting down with the time, you know that you should not be surprised if not everyone is going to love your movie. But which movie type is best suited for this role? You keep reading.</p>
+  
 
 
 ### Genre analysis
+  
+<p align="justify"> We now want to focus on genre. In the next plot we want to give an idea of the different genres present in the data set. Below we display the genres present in the dataset. We remark that drama, documentary and comedy movies are extremely present compared to other categories such as thriller movies. We have to keep this into account when we do our analysis. </p>
+  
+ADD IMAGE
+  
+  
+<p align="justify"> We explore our three variables, rating, budget and revenue, for each genre. (Fig ref x) From these representations we remark that genres with highest rating are in order: biography, western and war. Biography movies have a significantly higher rating than the others, except for western and war films. Concerning the revenue, the highest is obtained by the adventure category and the lowest with documentaries. This last category has a lower budget and revenue than the others.</p>
 
 ### Clustering
 
