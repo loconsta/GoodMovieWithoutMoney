@@ -4,7 +4,7 @@ We are going to bring you on an amazing journey inside the Hollywood world. Enjo
 
 <p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good look.”</p></i>
 
-<i><p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy, and as you know life is not easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p>
+<p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy, and as you know life is not easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p>
 
 <p align="justify"> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:</p>
 
@@ -117,6 +117,48 @@ We can remark that for :
 * low rating - low budget subset there are more horror. There are also several documentaries, but less than the other.
 
 <p align="justify"> We did some statistical tests on the high rating - low budget subset vs the rest of the data on the specific genres that came out. We used an independent t-test as there are not the same amount of movies in the different data sets that are compared. The documentary and war movies are significantly greater in the low budget - high rating subsets than in the rest of the data. For Western, we did not reach the level of significance. </p>
+
+
+
+We can do the same representation but with the countries instead of the genres:
+
+ADD IMAGE
+
+We can see that for :
+
+* high rating - low budget: there are more movies from DE, DK, ES, HK, KR than in the other subsets. The fraction around 0.5 so, it means that nearly the majority of movies of the whole data set are contained in this subset. There are also many FR, GB, JP and AU movies in this subset.
+* high rating - high: subset there are more movies from NZ.
+* low rating - high: subset there are more movies from CH.
+*vlow rating - low: subset there are more movies from RU.
+
+<p align="justify">It is interesting to see that in none of the subsets, the major production country of the whole data set (USA) has no peak. Indeed, the USA produced the majority of the movies in this data set. So, it means that the USA produced movies that have an average budget or rating. It is more non usual production countries that appeared in the subsets of low/high rating and budget.</p>
+
+We can see that DE, DK, ES, HK, KR has a good potential to produce cheap and good movies.
+
+<p align="justify"> Let's do some statistical tests of the data that is high rating - low budget vs all the rest of the data on the specific countries that came out. All the tested countries except JP and AU reached the level of significance. </p>
+
+<p align="justify"> In the subgroup high rating - low budget we can more carefully look at the attributes of the cast members, such the height, the age and the fraction of men. In the next figure we display the result of the cast analysis while we take into consideration the recent movies and the old movies, using 2000 as cut-off year.</p>
+
+ADD IMAGE
+
+Comparison inside the high rating - low budget (HR-LB) movies :
+
+* There are significantly more women actors in the new movies (fraction of men is lower).
+* It seems to have a tendency in the new movies to have older and smaller actors.
+
+Comparison inside the rest of the movies :
+
+* The actors are now significantly younger than before
+* There are significantly more female actors in the new movies (fraction of men is lower).
+
+Comparison between HR-LB movies and the rest of the data :
+
+* Before 2000, actors of HR-LB movies were significantly younger
+* After 2000, the actors are significantly smaller in the HR-LB movies than the others.
+
+
+
+
 
 
 <p align="center">
