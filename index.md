@@ -21,6 +21,7 @@ Mr. Costantin and his amazing team work day and night to present the analysis as
 After 2 weeks you receive an envelope with the results from the consulting company you hired.
 
 ## Letter
+  
 Dear future movie director,
 
 Me and my team worked full-time to provide you this report. We hope you are going to appreciate the analysis we made. 
@@ -99,10 +100,22 @@ ADD IMAGE
 
 <p align="justify"> In the second period, it seems harder to create movies as good as in the past. This could be due to the increasing concurrence. </p>
 
-  
-
 
 ### Clustering
+  
+<p align="justify"> Let’s perform a deeper analysis. We are considering clusters of pairwise rating, budget and revenue in low and high space. With the representation below, we report the fraction of movies over the total number of movies of a particular genre in the whole dataset. It is why the fractions are small, because the 4 groups do not contain a lot of data points. 
+  
+ADD IMAGE
+  
+
+We can remark that for :
+
+* high rating - low budget:  there are more documentaries, western, war movies.
+* high rating - high budget: there are more biographies, history movies. There are also several adventure, sci-fi and war movies, but less than the other.
+* low rating - high budget: there are more animation, scifi, fantasy, family and action movies.
+* low rating - low budget subset there are more horror. There are also several documentaries, but less than the other.
+
+<p align="justify"> We did some statistical tests on the high rating - low budget subset vs the rest of the data on the specific genres that came out. We used an independent t-test as there are not the same amount of movies in the different data sets that are compared. The documentary and war movies are significantly greater in the low budget - high rating subsets than in the rest of the data. For Western, we did not reach the level of significance. </p>
 
 
 <p align="center">
