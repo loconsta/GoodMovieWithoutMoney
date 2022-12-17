@@ -184,11 +184,3 @@ ADD IMAGE
 
 
 <p align="justify"> You have finished reading the report. You take a deep breath. You look outside the window and your eyes shine. The world is full of amazing creatures, views and diversity. You are going to produce a documentary that everyone is going to remember.</p>
-
-
-
-<p align="center">
-  <img src="images/test_monkey.jpg" />
-</p>
-
-We are currently trying to create this website. If you see a bunch of nice monkeys above, we are on track to get this thing done, so Cheers !!
