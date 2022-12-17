@@ -51,6 +51,15 @@ ADD IMAGE
   
 <p align="justify"> The ratings are in the range [0,10] and the distributions of revenue and budget are in logarithmic scale. The last two are centred  around  108 US dollars. We remark that some movies are extremely far away from the centre of the distribution.</p>
 
+<p align="justify"> For budget and revenue, we see that without the monetary correction there is a quite constant increase from 1959 to 2021. We remark that with inflation there is a better stabilisation, meaning that the variable is flatter. There is higher variability during the first years (1959-1973), which are probably due to the low number of movies during those years compared to more recent years.</p>
+
+ADD IMAGE
+
+<p align="justify"> In both cases (budget, revenue), we see that the median value is below the mean value. It is likely that there are huge outliers in both variables. In fact, we can confirm their presence from the distribution plots that we looked before.</p>
+
+<p align="justify"> The budgets and the revenues are corrected by considering the inflation. Thanks to this step we can compare revenues and budgets across years.</p>
+
+
 ### Genre analysis
 
 ### Clustering
