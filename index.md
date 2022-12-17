@@ -64,6 +64,10 @@ ADD IMAGE
 
 ADD IMAGE
 
+<p align="center">
+  <img src="images/card.jpg" />
+</p>
+
 
 ### Genre analysis
 
