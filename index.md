@@ -2,7 +2,7 @@ We are going to bring you on an amazing journey inside the Hollywood world. Enjo
 
 <p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA, and you want to prove your abilities, because as your mama says you are the best person in the world. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history of the world. </p>
 
-<p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good look.”</p></i>
+<p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good look.”</p>
 
 <p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy, and as you know life is not easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p>
 
@@ -157,7 +157,15 @@ Comparison between HR-LB movies and the rest of the data :
 * After 2000, the actors are significantly smaller in the HR-LB movies than the others.
 
 
+<p align="justify"> It is time to focus on the revenue instead of the rating. We can take into account the ratio between revenue and budget as a measure of the success instead of the rating. Of course we also select a low budget, which reflects the situation in which we are.</p>
+  
+ADD IMAGE
+  
+<p align="justify"> A rapid overview on this subgroup highlights the strong presence of documentaries. There are significantly more documentary, horror and mystery movies in this subset than in the rest of the data. It is interesting to see that this is not exactly the same movie genre that came out from the high rating - low budget subset, were documentary and war movies that were significant.</p>
 
+We can perform the same analysis in space instead of in the genre categories and we obtains that there are significantly more movies that are produced in DE, DK, ES and KR in the high revenue/budget - low budget subset than in the rest of the data:
+
+ADD IMAGE
 
 
 
