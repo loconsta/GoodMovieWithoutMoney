@@ -103,7 +103,8 @@ ADD IMAGE
 
 ### Clustering
   
-<p align="justify"> Let’s perform a deeper analysis. We are considering clusters of pairwise rating, budget and revenue in low and high space. With the representation below, we report the fraction of movies over the total number of movies of a particular genre in the whole dataset. It is why the fractions are small, because the 4 groups do not contain a lot of data points. 
+<p align="justify"> Let’s perform a deeper analysis. We are considering clusters of pairwise rating, budget and revenue in low and high space. With the representation below, we report the fraction of movies over the total number of movies of a particular genre in the whole dataset. It is why the fractions are small, because the 4 groups do not contain a lot of data points. </p>
+
   
 ADD IMAGE
   
