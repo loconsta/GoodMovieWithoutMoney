@@ -1,26 +1,24 @@
-We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
+<i>We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.</i>
 
-<p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA, and you want to prove your abilities, because as your mama says you are the best person in the world. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history of the world. </p>
+<i><p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA, and you want to prove your abilities, because as your mama says you are the best person in the world. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history of the world. </p></i>
 
-<p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good look.”</p>
+<i><p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good look.”</p></i>
 
-<p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy, and as you know life is not easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p>
+<i><p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy, and as you know life is not easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p></i>
 
-<p align="justify"> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:</p>
+<i><p align="justify"> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:</p></i>
 
 <p align="center">
   <img src="images/card.jpg" />
 </p>
 
-ADD CARD IMAGE
+<i><p align="justify"> You immediately send an email to Mr. Costantin. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. The only thing you need to do is to wait.</p></i>
 
-<p align="justify"> You immediately send an email to Mr. Costantin. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. The only thing you need to do is to wait.</p>
+<i><p align="justify"> The day has come, 2 minutes before the meeting time you click on the zoom link Loris gave you. Of course, you haven’t updated zoom, now you have to wait. At the end you only have 1 minute of delay. During the discussion you and Mr. Costantin make a deal: he is going to collect and analyse all the movie data he finds in order to provide you with the kind of movie you should produce. In exchange you will pay him 5% of your revenue.</p></i>
 
-<p align="justify"> The day has come, 2 minutes before the meeting time you click on the zoom link Loris gave you. Of course, you haven’t updated zoom, now you have to wait. At the end you only have 1 minute of delay. During the discussion you and Mr. Costantin make a deal: he is going to collect and analyse all the movie data he finds in order to provide you with the kind of movie you should produce. In exchange you will pay him 5% of your revenue.</p>
+<i>Mr. Costantin and his amazing team work day and night to present the analysis as soon as possible.</i>
 
-Mr. Costantin and his amazing team work day and night to present the analysis as soon as possible.
-
-After 2 weeks you receive an envelope with the results from the consulting company you hired.
+<i>After 2 weeks you receive an envelope with the results from the consulting company you hired.</i>
 
 ## Letter
 Dear future movie director,
