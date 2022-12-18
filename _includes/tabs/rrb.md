@@ -26,5 +26,9 @@
 </p>
 
 <p align="justify"> Let’s compute the correlation coefficients between the three variables. For all the test statistics we are going to use 5% as a significant threshold. In the plot below we report the correlation coefficient and the p-value for each pairwise comparison. For mitigating the huge domain spanned by the revenue and the budget we use the log scale. We remark that there is a significant correlation between the log of the budget and the log of the revenue, and the rating and the log of revenue. The correlation coefficient for the logarithmic budget-revenue relation is quite high. We can imagine that these two variables share a lot of information. The surprising fact is that there seems to be no correlation between the rating and the budget. Even with a low budget we can imagine producing a film with a high rating.</p>
+
+<p align="center">
+  <img src="images/pairgrid_RRB_by_point.png" />
+</p>
   
 <p align="justify"> You lift your head from the paper, your eyes are tired. You feel less stress than before, there is still a chance to get a high rating movie from a low budget. And you now know that the ratings are getting down with the time, you know that you should not be surprised if not everyone is going to love your movie. But which movie type is best suited for this role? You keep reading.</p>
