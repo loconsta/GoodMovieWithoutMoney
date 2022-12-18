@@ -6,7 +6,9 @@
   
 We explore our three variables, rating, budget and revenue, for each genre:
   
-ADD IMAGE
+<p align="center">
+  <img src="images/RRB_genre_CIs.png" />
+</p>
   
 <p align="justify"> From these representations we remark that genres with highest rating are in order: biography, western and war. Biography movies have a significantly higher rating than the others, except for western and war films. Concerning the revenue, the highest is obtained by the adventure category and the lowest with documentaries. This last category has a lower budget and revenue than the others.</p>
   
