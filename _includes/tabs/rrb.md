@@ -21,7 +21,9 @@
 
 <p align="justify"> The third variable, the rating, seems to have on average constantly decreased from the beginning of the timeline (1959) to now. It appears that it is more difficult now to get a high rating than it was before. To understand this mechanism we have to make some reflections. First, nowadays movies are so common that the expectations of a person are higher than in the past. Second, it is way easier to rate a movie with internet connection and social media, this allows people to grade movies directly from home. There is a bias on who rates the movie, if you had a bad experience it is more probable that you share your opinion, even insulting the producer. Instead, it is less probable that you take the time to give a nice and good review. Furthermore, rating on the Internet was less common in the twentieth century. So probably the most popular and appreciated old movies are more often viewed nowadays, and the bad old movies may have been forgotten and not rated. These are just some possible explanations about the trend we remark across the time.</p>
 
-ADD IMAGE
+<p align="center">
+  <img src="images/RRB_across_time.png" />
+</p>
 
 <p align="justify"> Let’s compute the correlation coefficients between the three variables. For all the test statistics we are going to use 5% as a significant threshold. In the plot below we report the correlation coefficient and the p-value for each pairwise comparison. For mitigating the huge domain spanned by the revenue and the budget we use the log scale. We remark that there is a significant correlation between the log of the budget and the log of the revenue, and the rating and the log of revenue. The correlation coefficient for the logarithmic budget-revenue relation is quite high. We can imagine that these two variables share a lot of information. The surprising fact is that there seems to be no correlation between the rating and the budget. Even with a low budget we can imagine producing a film with a high rating.</p>
   
