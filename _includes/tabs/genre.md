@@ -17,6 +17,10 @@ We explore our three variables, rating, budget and revenue, for each genre:
 <p align="center">
   <img src="images/old_recent_CIs.png" />
 </p>
+
+<center>
+  {% include images/old_recent_distr.html %}
+</center>
   
 <p align="justify"> Romance, mystery, horror, history, documentary, comedy, biography, and animation movies were significantly better rated before 2000. Action movies and science-fiction show a (non-significant)  increase in rating score. All the other categories display a non-significant decrease of the average rating score. This makes the analysis more complicated.  The trend is similar for all genres, the ratings are decreasing.</p>
   
