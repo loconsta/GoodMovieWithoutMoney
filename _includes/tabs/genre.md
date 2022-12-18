@@ -1,6 +1,8 @@
 <p align="justify"> We now want to focus on genre. In the next plot we want to give an idea of the different genres present in the data set. Below we display the genres present in the dataset. We remark that drama, documentary and comedy movies are extremely present compared to other categories such as thriller movies. We have to keep this into account when we do our analysis. </p>
   
-ADD IMAGE
+<center>
+  {% include images/overall_genre_distr.html %}
+</center>
   
 We explore our three variables, rating, budget and revenue, for each genre:
   
