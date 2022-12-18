@@ -12,15 +12,17 @@ We explore our three variables, rating, budget and revenue, for each genre:
   
 <p align="justify"> From these representations we remark that genres with highest rating are in order: biography, western and war. Biography movies have a significantly higher rating than the others, except for western and war films. Concerning the revenue, the highest is obtained by the adventure category and the lowest with documentaries. This last category has a lower budget and revenue than the others.</p>
   
-<p align="justify">Until now, the analyses have covered the entire time period from 1959 to 2021. Now, it would be interesting to understand how genres evolve over time. A general decrease in rating score was perceived in a first analysis. Is it the case for all movie’s genre, and is this decrease significant? The movies are then divided into two periods, with 2000 as the cut-off point, when an increase in the number of movies is observed. The next figure reports the results on rating, revenue and budget, before and after the cut-off.</p>
-  
-<p align="center">
-  <img src="images/old_recent_CIs.png" />
-</p>
+<p align="justify">Until now, the analyses have covered the entire time period from 1959 to 2021. Now, it would be interesting to understand how genres evolve over time. A general decrease in rating score was perceived in a first analysis. Is it the case for all movie’s genre, and is this decrease significant? The movies are then divided into two periods, with 2000 as the cut-off point, when an increase in the number of movies is observed. Below we report the number of movies in each category for the old and new movies.</p>
 
 <center>
   {% include images/old_recent_distr.html %}
 </center>
+  
+<p align="justify">The next figure reports the results on rating, revenue and budget, before and after the cut-off.</p>
+  
+<p align="center">
+  <img src="images/old_recent_CIs.png" />
+</p>
   
 <p align="justify"> Romance, mystery, horror, history, documentary, comedy, biography, and animation movies were significantly better rated before 2000. Action movies and science-fiction show a (non-significant)  increase in rating score. All the other categories display a non-significant decrease of the average rating score. This makes the analysis more complicated.  The trend is similar for all genres, the ratings are decreasing.</p>
   
