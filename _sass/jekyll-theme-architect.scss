@@ -2,6 +2,7 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
+
 /* Style the tab */
 .tab {
   overflow: hidden;
@@ -43,7 +44,27 @@
   margin-left: -10%;
 }
 
+/* tab_shift style */
 
+.tabshift button {
+  background-color: inherit;
+  color: #a00909;
+  float: right;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  // padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 20px;
+}
+
+.tabshift#left button {
+  float: left;
+}
+
+.tabshift button:hover{
+  color: #480303;
+}
 
 /* LAYOUT STYLES */
 body {
@@ -287,7 +308,7 @@ form {
   font-weight: bold;
   color: #a00909;
   text-indent: 4px;
-  margin-left: +5%;
+  // margin-left: +5%;
 }
 #main-content h2:before {
   padding-right: 0.3em;
@@ -304,7 +325,7 @@ form {
   font-weight: bold;
   color: #474747;
   text-indent: 3px;
-  margin-left: +7%;
+  margin-left: +4%;
 }
 
 #main-content h3:before {

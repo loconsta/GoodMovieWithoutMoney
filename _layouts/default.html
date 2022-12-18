@@ -40,41 +40,63 @@
           
           <!-- Declare tabs -->
           <div class="tab">
-            <button class="tablinks" onclick="openCity(event, 'ONE')" id="defaultOpen">Introduction</button>
-            <button class="tablinks" onclick="openCity(event, 'TWO')">Rating, Revenue, Budget</button>
-            <button class="tablinks" onclick="openCity(event, 'THREE')">Genres</button>
-            <button class="tablinks" onclick="openCity(event, 'FOUR')">Clustering</button>
-            <button class="tablinks" onclick="openCity(event, 'FIVE')">Conclusion</button>
+            <button class="tablinks" onclick="openCity(event, 'ONE')" id="1">Introduction</button>
+            <button class="tablinks" onclick="openCity(event, 'TWO')" id="2">Rating, Revenue, Budget</button>
+            <button class="tablinks" onclick="openCity(event, 'THREE')" id="3">Genres</button>
+            <button class="tablinks" onclick="openCity(event, 'FOUR')"  id="4">Clustering</button>
+            <button class="tablinks" onclick="openCity(event, 'FIVE')"  id="5">Conclusion</button>
           </div>
           
           <!-- Open content in tabs -->
           <div id="ONE" class="tabcontent">
             {% capture m %}{% include tabs/introduction.md %}{% endcapture %}
             {{ m | markdownify }}
+            <br> <br>
+            <div class="tabshift" id="right"><button class="tab_shift"
+                onclick="document.getElementById('2').click(); topFunction();">Continue to next tab...</button></div>
           </div>
           
           <div id="TWO" class="tabcontent">
             {% capture m %}{% include tabs/rrb.md %}{% endcapture %}
             {{ m | markdownify }}
+            <br> <br>
+            <div class="tabshift" id="right"><button class="tab_shift"
+                onclick="document.getElementById('3').click(); topFunction();">Continue to next tab...</button></div>
+            <div class="tabshift" id="left"><button class="tab_shift"
+                onclick="document.getElementById('1').click(); topFunction();">Back to previous tab...</button></div>
           </div>
           
           <div id="THREE" class="tabcontent">
             {% capture m %}{% include tabs/genre.md %}{% endcapture %}
             {{ m | markdownify }}
+            <br> <br>
+            <div class="tabshift" id="right"><button class="tab_shift"
+                onclick="document.getElementById('4').click(); topFunction();">Continue to next tab...</button></div>
+            <div class="tabshift" id="left"><button class="tab_shift"
+                onclick="document.getElementById('2').click(); topFunction();">Back to previous tab...</button></div>
           </div>
 
           <div id="FOUR" class="tabcontent">
             {% capture m %}{% include tabs/clustering.md %}{% endcapture %}
             {{ m | markdownify }}
+            <br> <br>
+            <div class="tabshift" id="right"><button class="tab_shift"
+                onclick="document.getElementById('5').click(); topFunction();">Continue to next tab...</button></div>
+            <div class="tabshift" id="left"><button class="tab_shift"
+                onclick="document.getElementById('3').click(); topFunction();">Back to previous tab...</button></div>
           </div>
 
           <div id="FIVE" class="tabcontent">
             {% capture m %}{% include tabs/conclusion.md %}{% endcapture %}
             {{ m | markdownify }}
+            <div class="tabshift" id="left"><button class="tab_shift"
+                onclick="document.getElementById('4').click(); topFunction();">Back to previous tab...</button></div>
           </div>
           
-          <!-- Handle tabs and open 1st by default -->
+          <!-- Handle tabs dynamically -->
           <script>
+
+          // function enabling tab switching
             function openCity(evt, cityName) {
               var i, tabcontent, tablinks;
               tabcontent = document.getElementsByClassName("tabcontent");
@@ -88,8 +110,15 @@
               document.getElementById(cityName).style.display = "block";
               evt.currentTarget.className += " active";
             }
+          
+          // function enabling scrolling up when changing tab from tabshift buttons
+            function topFunction() {
+                document.body.scrollTop = 0; // For Safari
+                document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+              }
+
             // Open 1st tab by default
-            document.getElementById("defaultOpen").click();
+            document.getElementById("1").click();
           </script>
 
         </section-->
