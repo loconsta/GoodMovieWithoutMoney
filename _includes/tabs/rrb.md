@@ -9,7 +9,9 @@ ADD IMAGE
 <p align="center">
   <img src="images/mean_median_budget_corrected.png" />
 </p>
-ADD IMAGE
+<p align="center">
+  <img src="images/mean_median_revenue_corrected.png" />
+</p>
 
 <p align="justify"> In both cases (budget, revenue), we see that the median value is below the mean value. It is likely that there are huge outliers in both variables. In fact, we can confirm their presence from the distribution plots that we looked before.</p>
 
