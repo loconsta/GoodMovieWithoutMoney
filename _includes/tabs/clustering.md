@@ -17,7 +17,7 @@ We can remark that for :
 We can do the same representation but with the countries instead of the genres:
 
 <center>
-  {% include images/radarChartCuntries.html %}
+  {% include images/radarChartCountries.html %}
 </center>
 
 We can see that for :
