@@ -1,6 +1,9 @@
 <p align="justify"> Let’s perform a deeper analysis. We are considering clusters of pairwise rating, budget and revenue in low and high space. With the representation below, we report the fraction of movies over the total number of movies of a particular genre in the whole dataset. It is why the fractions are small, because the 4 groups do not contain a lot of data points. </p>
 
-ADD IMAGE
+
+<center>
+  {% include images/radarChartGenres.html %}
+</center>
   
 We can remark that for :
 
@@ -13,7 +16,9 @@ We can remark that for :
 
 We can do the same representation but with the countries instead of the genres:
 
-ADD IMAGE
+<center>
+  {% include images/radarChartCuntries.html %}
+</center>
 
 We can see that for :
 
