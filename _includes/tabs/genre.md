@@ -31,6 +31,4 @@ We explore our three variables, rating, budget and revenue, for each genre:
 
 <p align="justify"> Science fiction, adventure, and action movies show a significant increase in budget, whereas romance and drama movies undergo a significant decrease in their budget. </p>
 
-<p align="justify"> Thus, a significant increase in budget (such as for action, adventure, and science fiction movies) does not reflect a significant increase in the revenue.</p>
-
-<p align="justify"> In the second period, it seems harder to create movies as good as in the past. This could be due to the increasing concurrence. </p>
+<p align="justify"> Thus, a significant increase in budget (such as for action, adventure, and science fiction movies) does not reflect a significant increase in the revenue. In the second period, it seems harder to create movies as good as in the past. This could be due to the increasing concurrence.</p>
