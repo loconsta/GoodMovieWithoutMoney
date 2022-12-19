@@ -6,24 +6,13 @@
   
 <p align="justify"> The ratings are in the range [0,10] where 10 is the maximum and 0 is the minimum. The distributions of revenue and budget are in logarithmic scale. The last two are centred  around  108 US dollars. We remark that some movies are extremely far away from the centre of the distribution.</p>
 
-<p align="justify"> For budget and revenue, we see that without the monetary correction there is a quite constant increase from 1959 to 2021. We remark that with inflation there is a better stabilisation, meaning that the variable is flatter. There is higher variability during the first years (1959-1973), which are probably due to the low number of movies during those years compared to more recent years.</p>
-
-<p align="center">
-  <img src="images/mean_median_budget_corrected.png" />
-</p>
-<p align="center">
-  <img src="images/mean_median_revenue_corrected.png" />
-</p>
-
-<p align="justify"> In both cases (budget, revenue), we see that the median value is below the mean value. It is likely that there are huge outliers in both variables. In fact, we can confirm their presence from the distribution plots that we looked before.</p>
-
-<p align="justify"> The budgets and the revenues are corrected by considering the inflation. Thanks to this step we can compare revenues and budgets across years.</p>
-
-<p align="justify"> Below there ia an overview of the three variables of interest after the inflation correction.</p>
+<p align="justify"> For budget and revenue, it is important to correct the data with monetary inflation in order to be able to compare different years together. The inflation coefficient available starts from 1959 until now. As expected without the monetary correction there is a quite constant increase from 1959 to 2021 in revenue and budget. The inflation is able to stabilize the values.. There is higher variability during the first years (1959-1973), which are probably due to the low number of movies during those years compared to more recent years.</p>
 
 <p align="center">
   <img src="images/RRB_across_time.png" />
 </p>
+
+<p align="justify"> In both cases (budget, revenue), we see that the median value is below the mean value. It is likely that there are huge outliers in both variables. In fact, we can confirm their presence from the distribution plots that we looked before.</p>
 
 <p align="justify"> The third variable, the rating, seems to have on average constantly decreased from the beginning of the timeline (1959) to now. It appears that it is more difficult now to get a high rating than it was before. To understand this mechanism we have to make some reflections. First, nowadays movies are so common that the expectations of a person are higher than in the past. Second, it is way easier to rate a movie with internet connection and social media, this allows people to grade movies directly from home. There is a bias on who rates the movie, if you had a bad experience it is more probable that you share your opinion, even insulting the producer. Instead, it is less probable that you take the time to give a nice and good review. Furthermore, rating on the Internet was less common in the twentieth century. So probably the most popular and appreciated old movies are more often viewed nowadays, and the bad old movies may have been forgotten and not rated. These are just some possible explanations about the trend we remark across the time.</p>
 
