@@ -15,7 +15,7 @@ We explore our three variables, rating, budget and revenue, for each genre:
 <p align="justify">Until now, the analyses have covered the entire time period from 1959 to 2021. Now, it would be interesting to understand how genres evolve over time. A general decrease in rating score was perceived in a first analysis. Is it the case for all movie’s genre, and is this decrease significant? The movies are then divided into two periods, with 2000 as the cut-off point, when an increase in the number of movies is observed. Below we report the number of movies in each category for the old and new movies.</p>
 
 <center>
-  {% include images/old_recent_distr.html %}
+  {% include images/median_rentability_by_genre.html %}
 </center>
   
 <p align="justify">The next figure reports the results on rating, revenue and budget, before and after the cut-off.</p>
