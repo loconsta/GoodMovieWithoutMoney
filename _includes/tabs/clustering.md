@@ -1,4 +1,4 @@
-<p align="justify"> Let’s perform a deeper analysis. We are considering clusters of pairwise rating, budget and revenue in low and high space. With the representation below, we report the fraction of movies over the total number of movies of a particular genre in the whole dataset. It is why the fractions are small, because the 4 groups do not contain a lot of data points. </p>
+<p align="justify"> Let’s perform a deeper analysis. We are considering clusters of pairwise rating, budget and revenue with low and high values. With the representation below, we report the fraction of movies over the total number of movies of a particular genre in the whole dataset. It is why the fractions are small, because the 4 groups do not contain a lot of data points. </p>
 
 
 <center>
@@ -33,9 +33,7 @@ We can see that DE, DK, ES, HK, KR has a good potential to produce cheap and goo
 
 <p align="justify"> Let's do some statistical tests of the data that is high rating - low budget vs all the rest of the data on the specific countries that came out. All the tested countries except JP and AU reached the level of significance. </p>
 
-<p align="justify"> In the subgroup high rating - low budget we can more carefully look at the attributes of the cast members, such the height, the age and the fraction of men. In the next figure we display the result of the cast analysis while we take into consideration the recent movies and the old movies, using 2000 as cut-off year.</p>
-
-ADD IMAGE
+<p align="justify"> In the subgroup high rating - low budget we can more carefully look at the attributes of the cast members, such the height, the age and the fraction of men. Here there is the result of the cast analysis while we take into consideration the recent movies and the old movies, using 2000 as cut-off year.</p>
 
 Comparison inside the high rating - low budget (HR-LB) movies :
 
@@ -67,5 +65,3 @@ We can perform the same analysis in space instead of in the genre categories and
 </center>
 
 <p align="justify"> By performing the cast analysis as before we can draw the same conclusions as for the comparison of the actor attributes of the high rating - low budget subset and the rest of the data except for the fraction of men. Here, we observe that there are significantly more women actors in recent and old movies in the subset, compared to the rest of the data. Moreover, we have also more women actors in recent movies than older ones as for the high rating - low budget subset.</p>
-
-ADD IMAGE
