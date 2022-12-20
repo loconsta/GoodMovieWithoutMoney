@@ -23,9 +23,9 @@ We can do the same representation but with the countries instead of the genres:
 We can see that for :
 
 * high rating - low budget: there are more movies from DE, DK, ES, HK, KR than in the other subsets. The fraction around 0.5 so, it means that nearly the majority of movies of the whole data set are contained in this subset. There are also many FR, GB, JP and AU movies in this subset.
-* high rating - high: subset there are more movies from NZ.
-* low rating - high: subset there are more movies from CH.
-*vlow rating - low: subset there are more movies from RU.
+* high rating - high budget: subset there are more movies from NZ.
+* low rating - high budget: subset there are more movies from CH.
+* low rating - low budget: subset there are more movies from RU.
 
 <p align="justify">It is interesting to see that in none of the subsets, the major production country of the whole data set (USA) has no peak. Indeed, the USA produced the majority of the movies in this data set. So, it means that the USA produced movies that have an average budget or rating. It is more non usual production countries that appeared in the subsets of low/high rating and budget.</p>
 
@@ -38,7 +38,7 @@ We can see that DE, DK, ES, HK, KR has a good potential to produce cheap and goo
 Comparison inside the high rating - low budget (HR-LB) movies :
 
 * There are significantly more women actors in the new movies (fraction of men is lower).
-* It seems to have a tendency in the new movies to have older and smaller actors.
+* It seems to have a tendency in the new movies to have older and shorter actors.
 
 Comparison inside the rest of the movies :
 
@@ -48,7 +48,7 @@ Comparison inside the rest of the movies :
 Comparison between HR-LB movies and the rest of the data :
 
 * Before 2000, actors of HR-LB movies were significantly younger
-* After 2000, the actors are significantly smaller in the HR-LB movies than the others.
+* After 2000, the actors are significantly shorter in the HR-LB movies than the others.
 
 <p align="justify"> It is time to focus on the revenue instead of the rating. We can take into account the ratio between revenue and budget as a measure of the success instead of the rating. Of course we also select a low budget, which reflects the situation in which we are.</p>
   
