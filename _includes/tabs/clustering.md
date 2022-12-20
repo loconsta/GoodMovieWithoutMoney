@@ -27,7 +27,7 @@ We can see that for :
 * low rating - high budget: subset there are more movies from CH.
 * low rating - low budget: subset there are more movies from RU.
 
-<p align="justify">It is interesting to see that in none of the subsets, the major production country of the whole data set (USA) has no peak. Indeed, the USA produced the majority of the movies in this data set. So, it means that the USA produced movies that have an average budget or rating. It is more non usual production countries that appeared in the subsets of low/high rating and budget.</p>
+<p align="justify">It is interesting to see that in none of the subsets, USA was the major production country. Indeed, the USA produced the majority of the movies in this data set. So, it means that the USA produced movies that have an average budget or rating. It is more non usual production countries that appeared in the subsets of low/high rating and budget. A reson of this could be that the data are taken from a US based collection, in which foreign movies must be good in order to be included.</p>
 
 We can see that DE, DK, ES, HK, KR has a good potential to produce cheap and good movies.
 
