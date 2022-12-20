@@ -22,4 +22,4 @@
   <img src="images/pairgrid_RRB_by_point.png" />
 </p>
   
-<p align="justify"> You lift your head from the paper, your eyes are tired. You feel less stress than before, there is still a chance to get a high rating movie from a low budget. And you now know that the ratings are getting down with the time, you know that you should not be surprised if not everyone is going to love your movie. But which movie type is best suited for this role? You keep reading.</p>
+<p align="justify"> You lift your head from the paper, your eyes are tired. You feel less stress than before, there is still a chance to get a high rating movie from a low budget. The ratings are getting down with the time, so you realize that you should not be surprised if some people wont love your movie. But which movie type is best suited for this role? You keep reading.</p>
