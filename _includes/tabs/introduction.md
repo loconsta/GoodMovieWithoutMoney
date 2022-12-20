@@ -1,6 +1,6 @@
 We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
 
-<p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in all the history. </p>
+<p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in history. </p>
 
 <p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good luck.”</p>
 
