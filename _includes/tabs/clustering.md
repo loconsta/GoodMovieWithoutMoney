@@ -1,9 +1,9 @@
-### Clustering
+# Clustering
 
-<p align="justify"> Then we will explore how to separate the data to get meaningful results about how to produce a good movie without many money. First, we expanded our dataset with some new features that were not used before. After that, we manually created some subsets of the data according to the budget and our two measures of success of a movie which are : the average rating and $\frac{revenue}{budget}$. We would like to be able to come up with specific attributes of good and cheap movies. </p>
+<p align="justify"> Then we will explore how to separate the data to get meaningful results about how to produce a good movie without many money. First, we expanded our dataset with some new features that were not used before. After that, we manually created some subsets of the data according to the budget and our two measures of success of a movie which are : the average rating and $revenue \over budget$. We would like to be able to come up with specific attributes of good and cheap movies. </p>
 
 
-#### Separation into groups according to budget and rating
+## Separation into groups according to budget and rating
 
 <p align="justify"> First, we decided to separate the data into high/low budget and high/low rating categories. We took the 0.25 and 0.75 quantiles as cutoff. We looked at the genres reprensentation in the different subsets of the data : </p>
 
@@ -44,7 +44,7 @@ We can see that for :
 * Then, we compared HR-LB subset with the rest of the data. Before 2000, actors of HR-LB movies were significantly younger. After 2000, the actors are significantly shorter in the HR-LB movies than the others. 
 
 
-#### Separation into groups according to budget and revenue 
+## Separation into groups according to budget and revenue 
 
 <p align="justify"> Then, we decided to look at another success measure of the movies which is : $\frac{revenue}{budget}$. So, we selected low budget and high $\frac{revenue}{budget}$) movies. First, we looked at the genres representation within this subset : </p>
 
