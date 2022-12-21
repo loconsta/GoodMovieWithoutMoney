@@ -1,6 +1,6 @@
 # Clustering
 
-<p align="justify"> Then we will explore how to separate the data to get meaningful results about how to produce a good movie without many money. First, we expanded our dataset with some new features that were not used before. After that, we manually created some subsets of the data according to the budget and our two measures of success of a movie which are : the average rating and revenue/budget. We would like to be able to come up with specific attributes of good and cheap movies. </p>
+<p align="justify"> Then we will explore how to separate the data to get meaningful results about how to produce a good movie without much money. First, we expanded our dataset with some new features that were not used before. After that, we manually created some subsets of the data according to the budget and our two measures of success of a movie which are : the average rating and revenue/budget. We would like to be able to come up with specific attributes of good and cheap movies. </p>
 
 
 ## Separation into groups according to budget and rating
