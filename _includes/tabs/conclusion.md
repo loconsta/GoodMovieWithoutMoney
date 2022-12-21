@@ -5,7 +5,7 @@
 
 <p align="justify"> From this result you can see that documentaries are quite relevant for you. Documentaries have the lowest budget and revenue, but are very well graded, which defines it as a well-suited genre for the situation we're in. </p>
 
-<p align="justify"> Just for your interest, western movies generate high revenue and are well-graded but requite quite a high budget. </p>
+<p align="justify"> Just for your interest, western movies generate high revenue and are well graded but requite quite a high budget. </p>
 
 <p align="justify"> For the production countries, if you want to earn money and also have a good rating with a low budget, you should concentrate on Germany, Danemark, Espagne, and South Korea only.</p>
 
