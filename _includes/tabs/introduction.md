@@ -20,7 +20,7 @@ Please, pretend to be an emerging movie director. You are young with no experien
 
 <p align="justify"><i> You immediately send an email to Ms. Monani. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. </i></p>
 
-<p align="justify"><i> The day has come, 2 minutes before the meeting time you click on the zoom link Lorance gave you. Of course, you haven’t updated zoom, so you connect late (otherwise it would have been too easy). During the discussion you and Ms. Monani make a deal: he is going to collect and analyse all the movie data he finds in order to provide you with insights into what kind of movie you should produce. In exchange you will pay him 5% of your revenue. </i></p>
+<p align="justify"><i> The day has come, 2 minutes before the meeting time you click on the zoom link Lorance gave you. Of course, you haven’t updated zoom, so you connect late (otherwise it would have been too easy). During the discussion you and Ms. Monani make a deal: she is going to collect and analyse all the movie data she finds in order to provide you with insights into what kind of movie you should produce. In exchange you will pay her 5% of your revenue. </i></p>
 
 <i>Ms. Monani and her amazing team work day and night to present the analysis as soon as possible.</i>
 
@@ -40,13 +40,13 @@ Lorance Monani
 
 ## Introduction
 
-<p align="justify"> In this report you will find a detailed study of the relationship between movie rating, revenue, and budget throughout the last 60 years. We also analysed the genres in order to give you an idea about which movie type is more likely to obtain good rating and high revenue. Lastly, we are interested in low budget movies with high revenue and ratings. We investigated possible common characteristics of these movies and how they evolve with time.</p>
+<p align="justify"> In this report you will find a detailed study of the relationship between movie rating, revenue, and budget throughout the last 60 years. We also analysed the genres in order to give you an idea about which movie type is more likely to obtain good rating and high revenue. Lastly, we were interested in low budget movies with high revenue and ratings. We investigated possible common characteristics of these movies and how they evolve with time.</p>
 
 <p align="justify"> In the conclusion part, you will find our suggestion for creating an amazing movie with a low budget.</p>
   
 ## Datasets
 
-A huge collection of movies from the past century and the beginning of this century. A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG). The next figure gives an idea of the number of movies in each year that are contained in the database used for the analysis.The number of movies produced in the twenty-first century has skyrocketed, exceeding 10,000 per year.
+We gathered a huge collection of movies from the past century and the beginning of this century. A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG). The next figure gives an idea of the number of movies in each year that are contained in the database used for the analysis.The number of movies produced in the twenty-first century has skyrocketed, exceeding 10,000 per year.
 
 <center>
   {% include images/year_movie_distr.html %}

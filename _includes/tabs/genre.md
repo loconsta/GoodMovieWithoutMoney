@@ -1,6 +1,9 @@
 ## Genre
 <p align="justify"> As the choice of the genre is a determinant feature to produce a movie, we focus on this characteristic. In the next plot we want to give an idea of the different genres present in the data set. We remark that drama, documentary and comedy movies are extremely present compared to other categories such as thriller movies. </p>
-  
+
+<center>
+  {% include images/genre_chord_diag.html %}
+</center>
 <center>
   {% include images/overall_genre_distr.html %}
 </center>
