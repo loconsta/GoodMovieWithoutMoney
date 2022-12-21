@@ -10,4 +10,4 @@
 
 <p align="justify"> With the result presented in this report we suggest you to focus on documentaries,  horror, and mystery genres for getting high revenue relative to  your low budgets. To also reach high rating we incurage you to focus on documetaries. In this case the revenue you can get is not extremely high but you can still easily earn 10 times the given budget. Another strong point for the documentary is that you are not required to select a cast because nature is outside just for you, ready to become a movie star. </p>
 
-<p align="justify"> You have finished reading the report. You take a deep breath. You look outside the window and your eyes shine. The world is full of amazing creatures, views and diversity. You are going to produce a documentary that everyone is going to remember.</p>
+<p align="justify"><i> You have finished reading the report. You take a deep breath. You look outside the window and your eyes shine. The world is full of amazing creatures, views and diversity. You are going to produce a documentary that everyone is going to remember. </i></p>

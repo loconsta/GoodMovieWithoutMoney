@@ -1,44 +1,48 @@
-We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.
+<b>We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.</b>
 
-<p align="justify"> Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA. You have just finished the last exam. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “Probably it is just a fake call”. Therefore, you pretend to be the best student in history. </p>
+<p align="justify"><i>
+Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA. You just graduated. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “It is probably just a fake call”. Therefore, you confidently pretend to be the best student in history.
+</i></p>
 
-<p align="justify"> You wake up, it is 2 p.m. and you have no memory of the night before. Suddenly, a message arrives: “Thank you for the nice talk, as we discussed yesterday you have 1 year to propose and produce a great movie. Your budget is …  and you are free to make whatever choice you want. Good luck.”</p>
+<p align="justify"><i> You wake up, it is 2 P.M. and you have no recollection of these events. Suddenly, a message arrives: “Thank you for the nice talk. As we discussed yesterday, I will come back to you for your movie proposal next year. You dispose of a rather modest budget and you are free to make whatever choice you want. Good luck.”
+</i></p>
 
-<p align="justify"> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a movie and of course you have a limited budget, otherwise it would have been too easy. You know that if you miss this chance all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of film?</p>
+<p align="justify"><i> Now that all of your neurons are awake you understand the big problem you have: you are asked to produce a CHEAP movie (otherwise it would have been too easy). You know that if you miss this chance, all of your hard work at the academy is going to be wasted. It is time for big responsibilities. Do you want to make a difference in the history of movie?
+</i></p>
 
-<p align="justify"> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there:</p>
+<p align="justify"><i> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies, someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there: </i></p>
 
 <p align="center">
-  <img src="images/card.jpg" />
+  <img src="images/card.jpg" width = 400 height = 250/>
 </p>
 
-<p align="justify"> You immediately send an email to Mr. Costantin. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. The only thing you need to do is to wait.</p>
+<p align="justify"><i> You immediately send an email to Ms. Monani. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. </i></p>
 
-<p align="justify"> The day has come, 2 minutes before the meeting time you click on the zoom link Loris gave you. Of course, you haven’t updated zoom, now you have to wait. During the discussion you and Mr. Costantin make a deal: he is going to collect and analyse all the movie data he finds in order to provide you with the kind of movie you should produce. In exchange you will pay him 5% of your revenue.</p>
+<p align="justify"><i> The day has come, 2 minutes before the meeting time you click on the zoom link Lorance gave you. Of course, you haven’t updated zoom, so you connect late (otherwise it would have been too easy). During the discussion you and Ms. Monani make a deal: he is going to collect and analyse all the movie data he finds in order to provide you with insights into what kind of movie you should produce. In exchange you will pay him 5% of your revenue. </i></p>
 
-Mr. Costantin and his amazing team work day and night to present the analysis as soon as possible.
+<i>Ms. Monani and her amazing team work day and night to present the analysis as soon as possible.</i>
 
-After 2 weeks you receive an envelope with the results from the consulting company you hired.
+<i>After 2 weeks you receive an envelope with the results from the consulting company you hired.</i>
 
 ## Letter
   
 Dear future movie director,
 
-Me and my team worked full-time to provide you this report. We hope you are going to appreciate the analysis we made.
+Me and my team worked full-time to provide you with this report. We hope you are going to appreciate the analysis we made.
 
 We stay at your disposal for any additional questions.
 
 Best regards,
 
-Loris Costantin
+Lorance Monani
 
 ## Abstract
 
-<p align="justify"> In the late 19th century the entertainment industry saw the advent of the first films. In the past hundred years movies have become an integral part of the lives of people around the globe. Nowadays, the movie industry has seen the advent of "superproductions" supported by insane amounts of money. However, budget might not be a mandatory prerequisite for movie quality, appreciation and revenue. We aim to study the relationship between movie rating, revenue, and budget throughout the last 60 years. In addition, we want to include movie genres in our analysis, and hope to reveal a time-dependent effect of trends in the movie industry. This would be signalled by an increased revenue/rating due only to genre differences, changing across decades. Lastly, we are interested in low budget movies with high revenue and ratings. We want to investigate possible common characteristics of these movies and how they evolve with time. </p>
+<p align="justify"> In the late 19th century the entertainment industry saw the advent of the first movies. In the past hundred years movies have become an integral part of the lives of people around the globe. Nowadays, the movie industry has seen the advent of "superproductions" supported by insane amounts of money. However, budget might not be a mandatory prerequisite for movie quality, appreciation and revenue. We aim to study the relationship between movie rating, revenue, and budget throughout the last 60 years. In addition, we want to include movie genres in our analysis, and hope to reveal a time-dependent effect of trends in the movie industry. This would be signalled by an increased revenue/rating due only to genre differences, changing across decades. Lastly, we are interested in low budget movies with high revenue and ratings. We want to investigate possible common characteristics of these movies and how they evolve with time. </p>
 
 ## Datasets
 
-A huge collection of movies from the past century and the beginning of this century. A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG). The next figure gives an idea of the number of movies in each year that are contained in the database used for the analysis.The number of films produced in the twenty-first century has skyrocketed, exceeding 10,000 per year.
+A huge collection of movies from the past century and the beginning of this century. A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG). The next figure gives an idea of the number of movies in each year that are contained in the database used for the analysis.The number of movies produced in the twenty-first century has skyrocketed, exceeding 10,000 per year.
 
 
 <center>

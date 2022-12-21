@@ -2,7 +2,7 @@
 
 
 <center>
-  {% include images/radarChartGenres.html %}
+  {% include images/superposated_radar_charts_genres.html %}
 </center>
   
 We can remark that for :
@@ -17,7 +17,7 @@ We can remark that for :
 We can do the same representation but with the countries instead of the genres:
 
 <center>
-  {% include images/radarChartCountries.html %}
+  {% include images/superposated_radar_charts_countries.html %}
 </center>
 
 We can see that for :
@@ -53,7 +53,7 @@ Comparison between HR-LB movies and the rest of the data :
 <p align="justify"> It is time to focus on the revenue instead of the rating. We can take into account the ratio between revenue and budget as a measure of the success instead of the rating. Of course we also select a low budget, which reflects the situation in which we are.</p>
   
 <center>
-  {% include images/singleRadarChartGenre.html %}
+  {% include images/single_radar_chart_genres.html %}
 </center>
   
 <p align="justify"> A rapid overview on this subgroup highlights the strong presence of documentaries. There are significantly more documentary, horror and mystery movies in this subset than in the rest of the data. It is interesting to see that this is not exactly the same movie genre that came out from the high rating - low budget subset, were documentary and war movies that were significant.</p>
@@ -61,7 +61,7 @@ Comparison between HR-LB movies and the rest of the data :
 We can perform the same analysis in space instead of in the genre categories and we obtains that there are significantly more movies that are produced in DE, DK, ES and KR in the high revenue/budget - low budget subset than in the rest of the data:
 
 <center>
-  {% include images/singleRadarChartCountry.html %}
+  {% include images/single_radar_chart_countries.html %}
 </center>
 
 <p align="justify"> By performing the cast analysis as before we can draw the same conclusions as for the comparison of the actor attributes of the high rating - low budget subset and the rest of the data except for the fraction of men. Here, we observe that there are significantly more women actors in recent and old movies in the subset, compared to the rest of the data. Moreover, we have also more women actors in recent movies than older ones as for the high rating - low budget subset.</p>
