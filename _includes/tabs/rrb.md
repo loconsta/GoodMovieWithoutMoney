@@ -1,3 +1,5 @@
+## Rating, Revenue and Budget
+
 <p align="justify"> The success of a movie is determined by 3 main parameters: its revenue, its budget and its rating. We first analysed the distribtions of these features and their relationship. As such data is scarce, we had to take a subsets of approximately 5'000 movies, which are distributed throughout the years as shown in the figure below: </p>
 
 <center>

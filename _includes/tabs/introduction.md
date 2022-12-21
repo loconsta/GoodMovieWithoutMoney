@@ -1,5 +1,7 @@
 <b>We are going to bring you on an amazing journey inside the Hollywood world. Enjoy the reading.</b>
 
+## Drama story
+
 <p align="justify"><i>
 Please, pretend to be an emerging movie director. You are young with no experience at all, but you studied hard at the renowned Action-Drama Academy, commonly known as ADA. You just graduated. That night you get drunk with your friends, you are celebrating your achievement. Your phone rings. An agent from Hollywood is calling you. You are too high to really understand what is happening, the only neuron that is left says: “It is probably just a fake call”. Therefore, you confidently pretend to be the best student in history.
 </i></p>
@@ -42,11 +44,9 @@ Lorance Monani
 
 <p align="justify"> In the conclusion part, you will find our suggestion for creating an amazing movie with a low budget.</p>
   
-
 ## Datasets
 
 A huge collection of movies from the past century and the beginning of this century. A [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) served as our base dataset. To enable a complete overview of the movie distribution, we completed it using data from [IMDB](https://datasets.imdbws.com/), [TMDB](https://developers.themoviedb.org/3/getting-started/introduction), [Wikipedia](https://www.wikipedia.org/) and corrected monetary values using [inflation data](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG). The next figure gives an idea of the number of movies in each year that are contained in the database used for the analysis.The number of movies produced in the twenty-first century has skyrocketed, exceeding 10,000 per year.
-
 
 <center>
   {% include images/year_movie_distr.html %}
