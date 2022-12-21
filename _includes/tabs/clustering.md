@@ -1,6 +1,6 @@
 # Clustering
 
-<p align="justify"> Then we will explore how to separate the data to get meaningful results about how to produce a good movie without many money. First, we expanded our dataset with some new features that were not used before. After that, we manually created some subsets of the data according to the budget and our two measures of success of a movie which are : the average rating and $revenue \over budget$. We would like to be able to come up with specific attributes of good and cheap movies. </p>
+<p align="justify"> Then we will explore how to separate the data to get meaningful results about how to produce a good movie without many money. First, we expanded our dataset with some new features that were not used before. After that, we manually created some subsets of the data according to the budget and our two measures of success of a movie which are : the average rating and revenue/budget. We would like to be able to come up with specific attributes of good and cheap movies. </p>
 
 
 ## Separation into groups according to budget and rating
@@ -46,7 +46,7 @@ We can see that for :
 
 ## Separation into groups according to budget and revenue 
 
-<p align="justify"> Then, we decided to look at another success measure of the movies which is : $\frac{revenue}{budget}$. So, we selected low budget and high $\frac{revenue}{budget}$) movies. First, we looked at the genres representation within this subset : </p>
+<p align="justify"> Then, we decided to look at another success measure of the movies which is : revenue/budget. So, we selected low budget and high revenue/budget movies. First, we looked at the genres representation within this subset : </p>
 
 <center>
   {% include images/single_radar_chart_genres.html %}
@@ -54,10 +54,10 @@ We can see that for :
   
 <p align="justify"> A rapid overview on this subgroup highlights the strong presence of documentaries. There are significantly more documentary, horror and mystery movies in this subset than in the rest of the data. It is interesting to see that this is not exactly the same movie genre that came out from the high rating - low budget subset. </p>
 
-We looked at the production countries within this subset and we obtained that there are significantly more movies that are produced in DE, DK, ES and KR in the high $\frac{revenue}{budget}$ - low budget subset than in the rest of the data :
+We looked at the production countries within this subset and we obtained that there are significantly more movies that are produced in DE, DK, ES and KR in the high revenue/budget - low budget subset than in the rest of the data :
 
 <center>
   {% include images/single_radar_chart_countries.html %}
 </center>
 
-<p align="justify"> By performing the cast analysis, we compared this subset with the rest of the data. We could draw the same conclusions as for the comparison of the actor attributes of the high rating - low budget subset and the rest of the data except that we observed significantly more women actors in recent high $\frac{revenue}{budget}$ - low budget movies compare to the rest of the data. It was just a tendency in the high rating - low budget subset. </p>
+<p align="justify"> By performing the cast analysis, we compared this subset with the rest of the data. We could draw the same conclusions as for the comparison of the actor attributes of the high rating - low budget subset and the rest of the data except that we observed significantly more women actors in recent high revenue/budget - low budget movies compare to the rest of the data. It was just a tendency in the high rating - low budget subset. </p>
