@@ -13,7 +13,7 @@ Please, pretend to be an emerging movie director. You are young with no experien
 <p align="justify"><i> You have no idea where to start, there are so many different kinds of movies. Which one will bring you success? During your studies, someone told you that there is a consulting company that helps young directors to reach fame after graduation. You look through your stuff, the business card is still there: </i></p>
 
 <p align="center">
-  <img src="images/card.jpg" width = 400 height = 250/>
+  <img src="images/Business_Card.png" width = 400 height = 250/>
 </p>
 
 <p align="justify"><i> You immediately send an email to Ms. Monani. You receive a fast answer, which is already a good sign. You schedule a meeting with the boss of the NoLemonNoMelon company in a few days. </i></p>
