@@ -1,10 +1,11 @@
-<p align="justify"> Good movies tend to generate money (medium correlation), and the higher the budget the higher the revenue (small correlation). </p>
-
-<p align="justify"> Documentaries have the lowest budget and revenue, but are very well graded, which defines it as a well-suited genre for the situation we're in. </p>
-
-<p align="justify"> Western movies generate high revenue and are well-graded but requite quite a high budget. </p>
+<p align="justify"> Here, you can find our final suggestion. </p>
+<p align="justify">  Good movies tend to generate money. There is little evidence that the higher the budget the higher the revenue. This result is extremely important for your case.</p>
 
 <p align="justify"> Concerning the genre of the movie, documentary, horror, mystery, and war movies are good opportunities. If you want to earn money and also have a good rating with a low budget, you should concentrate only on documentaries. If your goal is to earn money with a low budget, documentary, horror, and mystery genres are the best. Finally, if you want to have a good rating with a low budget, documentary and war movies are the best.</p>
+
+<p align="justify"> From this result you can see that documentaries are quite relevant for you. Documentaries have the lowest budget and revenue, but are very well graded, which defines it as a well-suited genre for the situation we're in. </p>
+
+<p align="justify"> Just for your interest, western movies generate high revenue and are well-graded but requite quite a high budget. </p>
 
 <p align="justify"> For the production countries, Germany, Danemark, Espagne, Hong Kong, South Korea, France, and Great Britain are good opportunities. If you want to earn money and also have a good rating with a low budget, you should concentrate only on Germany, Danemark, Espagne, and South Korea.</p>
 
