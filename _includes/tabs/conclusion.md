@@ -3,7 +3,7 @@
 
 <p align="justify"> Concerning the genre of the movie, documentary, horror, mystery, and war movies are good opportunities. If you want to earn money and also have a good rating with a low budget, you should concentrate on documentaries only. If your goal is to earn money with a low budget, documentary, horror, and mystery genres are the best. Finally, if you want to have a good rating with a low budget, documentary and war movies are the best.</p>
 
-<p align="justify"> From this result you can see that documentaries are quite relevant for you. Documentaries have the lowest budget and revenue, but are very well graded, which defines it as a well-suited genre for the situation we're in. </p>
+<p align="justify"> From this result you can see that documentaries are quite relevant for you. Documentaries have the lowest budget and revenue, but are very well graded, which defines it as a well-suited genre for the situation you are in. </p>
 
 <p align="justify"> Just for your interest, western movies generate high revenue and are well graded but requite quite a high budget. </p>
 
