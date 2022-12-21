@@ -1,5 +1,5 @@
 ### Genre
-<p align="justify"> As the choice of the genre is an determinant feature to produce a movie, we have focused on this characteristic. In the next plot we want to give an idea of the different genres present in the data set. We remark that drama, documentary and comedy movies are extremely present compared to other categories such as thriller movies. </p>
+<p align="justify"> As the choice of the genre is a determinant feature to produce a movie, we focus on this characteristic. In the next plot we want to give an idea of the different genres present in the data set. We remark that drama, documentary and comedy movies are extremely present compared to other categories such as thriller movies. </p>
   
 <center>
   {% include images/overall_genre_distr.html %}
@@ -11,7 +11,7 @@ As we are interested in the rating, the budget and the revenue variables, we hav
   <img src="images/RRB_genre_CIs.png" />
 </p>
   
-<p align="justify">  From these representations we remark that genres with highest rating are in order: biography, western and war. Documentaries have the lowest budget and revenue but are very well graded. Otherwise, Western and war movies generate high revenue and are well-graded. On the other hand, the adventure category shows the highest revenue and budget but is not particularly well rated.</p>
+<p align="justify"> From these representations we remark that genres with highest rating are in order: biography, western and war. Documentaries have the lowest budget and revenue but are very well graded. In addition, western and war movies generate high revenue and are well-graded. On the other hand, the adventure category shows the highest revenue and budget but is not particularly well rated.</p>
 
 <p align="justify"> Another value which would be interesting to look at is what we can call rentability: the ratio between revenue and budget. In fact a high revenue alone does not tell us a lot of information, it is better to understand how many times the revenue is bigger that the budget. Below we have the figure displaying the rentability in log scale. Documentaries have the highest ratio, followed by horror films, while animation categories have the lowest. </p>
     
