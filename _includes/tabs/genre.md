@@ -1,4 +1,4 @@
-### Genre
+## Genre
 <p align="justify"> As the choice of the genre is a determinant feature to produce a movie, we focus on this characteristic. In the next plot we want to give an idea of the different genres present in the data set. We remark that drama, documentary and comedy movies are extremely present compared to other categories such as thriller movies. </p>
   
 <center>
@@ -18,6 +18,8 @@ As we are interested in the rating, the budget and the revenue variables, we hav
 <center>
   {% include images/median_rentability_by_genre.html %}
 </center>
+
+<p align="justify"> The take home message from the above plots is that you should avoid animation. Instead, you should focus on documentaries (high rentability and well graded). To a lesser extend western movies are well rated and have medium rentability. Horror movies have high rentability but low ratings. Biography and war movies are not as rentable as documentaries although they are very well rated.</p>
   
 <p align="justify">Until now, the analyses have covered the entire time period from 1959 to 2021. To better understand our period, we analyzed the genre's evolution over time. A general decrease in rating score was perceived in a first analysis. However, is it the case for all movie’s genre? The movies has been divided into two periods, with 2000 as the cut-off point, when an increase in the number of movies is observed. The next figure reports the results on rating, revenue and budget, before and after the cut-off.</p>
 
