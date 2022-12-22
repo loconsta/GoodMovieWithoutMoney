@@ -3,7 +3,7 @@
 <p align="justify"> Here, you can find our final suggestion. </p>
 <p align="justify">  Well graded movies tend to generate a lot of money, but there is no evidence that a high budget drives a high rating. This result is extremely important for your case. Be aware that a modest revenue seems to prevent high revenue, but be hopeful, because good rentability is possible!</p>
 
-<p align="justify"> Concerning the genre of the movie, documentary, horror, mystery, and war movies are good opportunities. If you want to earn money and also have a good rating with a low budget, you should concentrate on documentaries only. If your goal is to earn money despite a low budget , documentary, horror, and mystery genres are the most cost-effective. Finally, if you want to have a good rating with a low budget, documentary and war movies are the best.</p>
+<p align="justify"> Concerning the genre of the movie, documentary, horror, mystery, and war movies are good opportunities. If you want to earn money and also have a good rating with a low budget, you should concentrate on documentaries only. If your goal is to earn money despite a low budget, documentary, horror, and mystery genres are the most cost-effective. Finally, if you want to have a good rating with a low budget, documentary and war movies are the best.</p>
 
 <p align="justify"> From this result you can see that documentaries are quite relevant for you. Documentaries have the lowest budget and revenue, but are very well graded, which defines it as a well-suited genre for the situation you are in. </p>
 
