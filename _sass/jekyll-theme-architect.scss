@@ -217,6 +217,27 @@ aside a.button, a.button2 {
   background: url(../images/download-button.png) 0 0 y-repeat;
 }
 
+
+/* Visit counter */
+.counter-title{
+  color: #fff;
+  position: absolute;
+  font-size: 15px;
+  bottom: -5%;
+  right: 0;
+  padding-right: 25px;
+}
+
+.website-counter {
+  position: absolute;
+  color: #fff;
+  font-size: 15px;
+  bottom: -5%;
+  right: 0;
+}
+
+/******************/
+
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
