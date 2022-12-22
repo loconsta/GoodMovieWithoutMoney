@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="justify"> In both cases (budget, revenue), we see that the median value is below the mean value. It is due to the presence of huge outliers in both variables (heavy-tailed).</p>
+<p align="justify"> In both cases (budget, revenue), we see that the median value is below the mean value. It is due to the presence of huge outliers in both variables (heavy-tailed). The shaded areas highlight the 95% confidence interval around these values, as will each error bar in this report.</p>
 
 <p align="justify"> The third variable, the rating, seems to have on average constantly decreased from the beginning of the timeline (1959) to now, suggesting that it is more difficult to get a high rating now than it was before. This trend might be explained by various factors. It could be that so many movies are available nowadays through various platforms that the public has become more demanding. Another explanation is that the grading community itself might have changed with the advent of internet. A known phenomenon in other areas suggest that bad experiences are more likely to result in a review, and it might have increased with the possibility of grading in a few clicks. Furthermore, some bad old movies may have been forgotten and not included in the databases at all. These are only speculations about the trend; what remains is that it might be harder today to reach a good grade than it was in the past.</p>
 
